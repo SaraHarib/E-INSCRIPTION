@@ -95,6 +95,6 @@ https://drive.google.com/file/d/1bMFfL-PhmkLKD6aBhlruSihvUcmyyPXy/view?usp=drive
 
 ## 👩‍💻 Auteurs
 
-Sara Harib
-Hafsa Sabri
-Projet Flutter + Laravel — E-INSCRIPTION
+- Sara Harib
+- Hafsa Sabri
+- Projet Flutter + Laravel — E-INSCRIPTION
